@@ -17,7 +17,7 @@ CURL_OUTPUT=$(curl -s -f -L -m 10 -k -o - "$URL")
 echo $CURL_OUTPUT > result.txt
 
 TEXT="Операторы"
-echo TEXT=$TEXT
+echo "TEXT="$TEXT
 
 echo Проверяем, содержит ли вывод текст \"$TEXT\"
 if [[ $CURL_OUTPUT =~ "$TEXT" ]]; then
