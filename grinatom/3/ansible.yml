@@ -1,35 +1,29 @@
 ---
-- name: Установка Prometheus и PostgreSQL на Debian 11
-  hosts: your_server
-  become: true
+- name: Install Prometheus and PostgreSQL on Debian 11
+  hosts: servers
+  become: true  # Позволяет выполнять команды с привилегиями суперпользователя
+  #become_method: sudo #я под рутом буду делать(вообще конечно надо под ТУЗ, но написано же "простой скрипт")
 
   tasks:
-    - name: Установка Python для Ansible
-      raw: apt-get update && apt-get install -y python3
+    - name: Install PostgreSQL
+      apt:  # Модуль apt используется для управления пакетами Debian
+        name: postgresql  # Устанавливаем пакет PostgreSQL
+        state: present  # Убедимся, что пакет установлен
 
-    - name: Установка ролей Ansible для Prometheus и PostgreSQL
-      ansible-galaxy:
-        name: community.general
-        state: present
+    - name: Install Prometheus
+      apt:  # Используем модуль apt для установки пакетов Debian
+        name: prometheus  # Устанавливаем пакет Prometheus
+        state: present  # Убедимся, что пакет установлен
 
-    - name: Установка PostgreSQL
-      community.general.postgresql_server:
-        version: 13
-        encoding: UTF8
-        locale: en_US.utf8
-        lc_collate: en_US.utf8
-        lc_ctype: en_US.utf8
-        walmgr: false
-        autovacuum: true
+    - name: Start and activate PostgreSQL
+      service:  # Модуль service используется для управления службами
+        name: postgresql  # Указываем имя службы PostgreSQL
+        state: started  # Запускаем службу
+        enabled: yes  # Активируем автозагрузку службы при старте системы
 
-    - name: Установка Prometheus
-      community.general.prometheus:
-        version: 2.30.1
-        global_config:
-          scrape_interval: 15s
-          evaluation_interval: 15s
-        scrape_configs:
-          - job_name: 'node'
-            static_configs:
-              - targets: ['localhost:9100']  # Замените localhost:9100 на адреса ваших узлов
+    - name: Start and activate Prometheus
+      service:  # Модуль service используется для управления службами
+        name: prometheus  # Указываем имя службы Prometheus
+        state: started  # Запускаем службу
+        enabled: yes  # Активируем автозагрузку службы при старте системы
 
