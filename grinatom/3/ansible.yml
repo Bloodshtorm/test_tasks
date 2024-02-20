@@ -26,4 +26,3 @@
         name: prometheus  # Указываем имя службы Prometheus
         state: started  # Запускаем службу
         enabled: yes  # Активируем автозагрузку службы при старте системы
-
