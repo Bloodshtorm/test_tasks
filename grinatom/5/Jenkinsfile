@@ -1,0 +1,15 @@
+pipeline {
+    agent any
+    stages {
+        stage('Deploy') {
+            steps {
+                script {
+                    // Выполнение плейбука Ansible с использованием секрета из Vault
+                    withCredentials([usernamePassword(credentialsId: 'vault-credentials', usernameVariable: 'VAULT_USER', passwordVariable: 'VAULT_PASS')]) {
+                        sh 'ansible-playbook --vault-id @prompt playbook.yml'
+                    }
+                }
+            }
+        }
+    }
+}

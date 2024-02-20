@@ -9,3 +9,5 @@ RUN npm install
 ENTRYPOINT ["npm"]
 CMD ["run", "prod"]
 ```
+
+**Выполнено**
