@@ -1,0 +1,89 @@
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\bin\Debug\ClipBook.exe.config
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\bin\Debug\ClipBook.exe
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\bin\Debug\ClipBook.pdb
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\obj\Debug\ClipBook.Form1.resources
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\obj\Debug\ClipBook.exe
+C:\Users\mrlex\source\repos\ClipBook\ClipBook\obj\Debug\ClipBook.pdb
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\bin\Debug\ClipBook.exe.config
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\bin\Debug\ClipBook.exe
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\bin\Debug\ClipBook.pdb
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\obj\Debug\ClipBook.Form1.resources
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\obj\Debug\ClipBook.exe
+C:\Users\mrlex\Desktop\ClipBook\ClipBook\obj\Debug\ClipBook.pdb
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.Form1.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.Form2.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.exe
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\obj\Debug\ClipBook.pdb
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\bin\Debug\ClipBook.exe.config
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\bin\Debug\ClipBook.exe
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook\ClipBook\bin\Debug\ClipBook.pdb
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\bin\Debug\ClipBook.exe.config
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\bin\Debug\ClipBook.exe
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\bin\Debug\ClipBook.pdb
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.Form1.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.Form2.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.exe
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара 95%)\ClipBook\obj\Debug\ClipBook.pdb
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\bin\Debug\ClipBook.exe.config
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\bin\Debug\ClipBook.exe
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\bin\Debug\ClipBook.pdb
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.Form1.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.Form2.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.exe
+F:\СГЭУ\коробецкая\РПП\курсовая\ClipBook(Динара сделано)\ClipBook\obj\Debug\ClipBook.pdb
+G:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe.config
+G:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe
+G:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.pdb
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form1.resources
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form2.resources
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.exe
+G:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.pdb
+E:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe.config
+E:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe
+E:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.pdb
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form1.resources
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form2.resources
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.exe
+E:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.pdb
+F:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe.config
+F:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe
+F:\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.pdb
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form1.resources
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form2.resources
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.exe
+F:\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.pdb
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe.config
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.exe
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\bin\Debug\ClipBook.pdb
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csprojAssemblyReference.cache
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form1.resources
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Form2.resources
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.Properties.Resources.resources
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csproj.GenerateResource.cache
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.exe
+C:\Users\Алексей\OneDrive - INFOPRO\Рабочий стол\Курсовая. Берсагурова\ClipBook\obj\Debug\ClipBook.pdb

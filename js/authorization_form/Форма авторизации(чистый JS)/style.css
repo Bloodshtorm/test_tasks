@@ -1,0 +1,104 @@
+html{
+    height: 100%;
+    padding: 0;
+    background-color:rgba(121, 28, 150, 0.842)
+ }
+ body
+ {
+    height: 100%;
+    font-family: 'Times new Roman';
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+ }
+ .general-form { width: 100%; padding: 0px; margin: 0 auto; }
+ .general-form>input { display: none; }
+ .general-form>div 
+ {
+     display: none;
+     padding: 12px;    
+ }
+ .general-form>label 
+ {
+     display: inline-block;
+     padding: 7px;
+     margin: 0 -5px 15px 18px;
+     text-align: center;
+     font-size: 26px;
+     cursor: pointer;
+     letter-spacing: 0.5px;
+    font-weight: 550;
+    color: rgba(14, 11, 165, 0.2);
+ }
+ .general-form>label:hover, a:hover
+ {
+    color: rgb(255,255,255);
+ }
+ .general-form>input:checked + label 
+ {
+     color: rgba(255, 2, 2, 0.637);
+     border-radius: 10px;
+     border: 1px solid rgb(7, 247, 195);
+     background-color: rgba(1, 255, 242, 0.397);
+ }
+ #tab_1:checked ~ #login-form,
+ #tab_2:checked ~ #reg-form
+ {
+  display: block; 
+ }
+ .active
+ {
+    border-bottom:#00f7ff 3px solid;
+    color: rgb(255,255,255);
+ }
+ .navigate {
+    position: relative;
+    margin: 20px 20px 40px 20px;
+ }
+ .general-form
+ {
+    position: relative;
+    max-width: 450px;
+    padding: 40px;
+    margin: 50px auto 0;
+    
+ }
+ .input
+ {
+    font-size: 16px;
+    font-weight: 500;
+    color:black;
+    display: block;
+    margin : 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+    border: 1px solid rgb(7, 247, 195);
+    background-color: rgba(4, 225, 233, 0.555);
+    margin-bottom: 20px;
+    outline: none;
+ }
+ .label
+ {
+    display: block;
+    margin : 0px 0px 10px 30px;
+    text-align: left;
+    color: white;
+    font-weight: 500;
+ }
+ .button
+ {
+    display: block;
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+    border: 1px solid rgba(255, 4, 4, 0.562);
+    background-color: rgba(255, 2, 2, 0.637);
+    margin: 20px auto;
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+    cursor: pointer;
+ }

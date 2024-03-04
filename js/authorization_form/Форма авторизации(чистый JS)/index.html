@@ -1,0 +1,61 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="general-form">
+        <input type="radio" name="inset" id="tab_1" checked>
+        <label for="tab_1" id="lab-tab_1">Авторизация</label>
+        <input type="radio" name="inset" id="tab_2">
+        <label for="tab_2" id="lab-tab_2">Регистрация</label>
+        <div id="login-form">
+            <form action="post" class="Form" id="form-sign">
+                <label for="email_auto" class="label">Электронная почта</label>
+                <input type="text" name="email" id="email" class="input">
+                <div id="EmailError"></div>
+                <label for="password_auto" class="label">Пароль</label>
+                <input type="password" name="psw" id="psw" class="input">
+                <div id="PasswordError"></div>
+                <input type="button" value="Войти" class="button" id="submit">
+                    <div class="timer">
+                        <div class="timer-days">
+                            <span id="days">12</span>
+                            Дней
+                        </div>
+                        <div class="timer-hours">
+                            <span id="hours">18</span>
+                            Часов
+                        </div>
+                        <div class="timer-minutes">
+                            <span id="minutes">35</span>
+                            Минут
+                        </div>
+                        <div class="timer-seconds">
+                            <span id="seconds">45</span>
+                            Секунд
+                        </div>
+                    </div>
+            </form>
+        </div>
+        <div id="reg-form">
+            <form action="post" class="Form" id="form_reg">
+                <label for="fio_reg" class="label">ФИО</label>
+                <input type="text" name="fio_reg" id="fio_reg" class="input">
+                <div id="fioError"></div>
+                <label for="email_reg" class="label">Электронная почта</label>
+                <input type="email" name="email_reg" id="email_reg" class="input">
+                <div id="EmailError_reg"></div>
+                <label for="password_reg" class="label">Пароль</label>
+                <input type="password" name="password_reg" id="password_reg" class="input">
+                <div id="PasswordError_reg"></div>
+                <label for="password_regreply" class="label">Повторите пароль</label>
+                <input type="password" name="password_regreply" id="password_regreply" class="input">
+                <div id="PassordError_regreply"></div>
+                <input type="button" value="Зарегистрироваться" class="button" id="submit_reg" >
+            </form>
+        </div>
+    </div>
+<script src='JScript.js'></script>
+</body>
+</html>
