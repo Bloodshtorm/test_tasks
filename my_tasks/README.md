@@ -12,7 +12,7 @@
 ## Блок SQL (Postgre)
 
 ```
-Есть две таблицы USERS и ORDERS:
+Есть три таблицы USERS и ORDERS:
 
 **USERS**
 Поля:
