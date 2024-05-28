@@ -8,9 +8,8 @@
 включать описание проблематики и как выбранное решение позволяет решить задачу.
 Какие шаги надо выполнить:
 
-1) Запустить на локальном Kubernetes-кластере (например, в Docker Desktop) ПО Sock
-Shop -
-https://github.com/microservices-demo/microservices-demo
+1) Запустить на локальном Kubernetes-кластере (например, в Docker Desktop) ПО Sock Shop - https://github.com/microservices-demo/microservices-demo
+
 2) Проанализировать образы контейнеров Socks Shop на наличие уязвимостей
 (инструмент на ваше усмотрение)
 3) Подготовить и провести презентацию выбранного инструмента на примере полученных
