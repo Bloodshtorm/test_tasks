@@ -14,3 +14,7 @@ session-db     1/1     1            1           4h11m
 shipping       1/1     1            1           4h11m
 user           1/1     1            1           4h11m
 user-db        1/1     1            1           4h11m
+
+trivy k8s --include-namespaces sock-shop --report summary > ../../../trivy/trivy-namespaces-sock-shop.txt
+
+trivy k8s --include-namespaces sock-shop --report summary > ../../../trivy/trivy-namespaces-sock-shop.txt
